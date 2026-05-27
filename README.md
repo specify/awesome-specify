@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="195" src="https://github.com/user-attachments/assets/46d6c42e-aea5-47d4-90d9-27194f759ea3" alt="logo of awesome-specify repository">
+  <img width="192" height="192" alt="Specify Awesome logo" src="https://github.com/user-attachments/assets/58ca66c5-511f-4601-9ad2-2c666a204499" />
   <br>
   <br>
 </p>
